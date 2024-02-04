@@ -39,7 +39,7 @@ git push( puch thenya malelmch 9balha commit) w kn jetek errur al push thenya
 Vous avez envoyé amel git pull w bad git push adi
 ala fekra adi ons manel mariem mafiomch master w tjhiom conflit ama en tt cas manech ala nafs dossier so mando maysir labes 
 
-
-                                                                                                                     
-
+ken nty amalt add file fel git hub wtheb thoto al local 
+git fetch origin master
+git merge origin/master                             
                                                                                                                     bouchaala mariem 
